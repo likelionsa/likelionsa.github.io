@@ -1,0 +1,6 @@
+{
+  "name": "김성아 소개 페이지",
+  "tagline": "",
+  "body": "# 김성아 세상\r\n## 부제목\r\n\r\n상세한 설명 작성하기\r\n\r\n```ruby\r\nputs \"hello world\" \r\n```",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
