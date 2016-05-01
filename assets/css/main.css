@@ -1854,6 +1854,11 @@
 	em, i {
 		font-style: italic;
 	}
+	.imgsize{
+  width:500px;
+  height:300px;
+  
+}
 
 	a {
 		-moz-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -2337,6 +2342,7 @@
 
 			.main.style2.left .content {
 				left: 0;
+				opacity: 0.7;
 			}
 
 			.main.style2.right:before {
@@ -2348,6 +2354,7 @@
 
 			.main.style2.right .content {
 				left: 65%;
+				opacity: 0.7;
 			}
 
 			.main.style2.inactive.left .content {
@@ -2884,7 +2891,7 @@
 
 	#one {
 		background: url("images/overlay.png"), url("../../images/one.jpg");
-		background-size: 256px 256px, cover;
+		background-size: 400px 400px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
@@ -2896,6 +2903,7 @@
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
+		
 	}
 
 /* Work */
